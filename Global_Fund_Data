@@ -1,1 +1,15 @@
+## Objective
+Analyze fundraising trends to identify key drivers of donations.
 
+## Tools Used
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+
+## Key Insights
+- Region X contributes highest revenue
+- Category Y has highest success rate
+- Seasonal trend shows peak in Month Z
+
+## Conclusion
+This analysis helps organizations optimize fundraising strategy.
